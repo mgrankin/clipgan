@@ -8,6 +8,7 @@ dependencies:
   - ipywidgets
   - python>=3.9.1
   - pip
+  - voila
   - pip:
     - --find-links https://download.pytorch.org/whl/torch_stable.html
     - torch==1.9.0+cu111
